@@ -31,5 +31,5 @@
 - Linux
 
 
-### Follow Me
-<!--[![Instagram](https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram&logoColor=6041b2)]()-->
+<!--### Follow Me
+[![Instagram](https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram&logoColor=6041b2)]()-->
